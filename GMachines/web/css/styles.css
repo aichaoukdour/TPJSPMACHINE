@@ -1,0 +1,12 @@
+
+fieldset{
+    font-family: arial;
+    font-size: 14px;
+    width: 600px;
+    margin: auto;
+    background-color: greenyellow;
+}
+
+input{
+    border-radius: 4px;
+}
